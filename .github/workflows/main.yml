@@ -3,7 +3,7 @@ name: Lint Workflow
 on:
   pull_request:
     branches:
-      - developing
+      - develop
       - stagging
 
 jobs:
